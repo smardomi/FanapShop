@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{74BC43AF-82BD-48F3-BC92-EB25A1118099}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D22C48CF-3851-4C13-A3D5-C8E3C668918D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanap.Shop.Domain", "src\Fanap.Shop.Domain\Fanap.Shop.Domain.csproj", "{CBC92B93-186B-44E0-ABFB-F9BAED280813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanap.Shop.Appliction", "src\Fanap.Shop.Appliction\Fanap.Shop.Appliction.csproj", "{CEECA954-A1D2-4A09-AB54-0FD029B2E2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanap.Shop.Infrastructure", "src\Fanap.Shop.Infrastructure\Fanap.Shop.Infrastructure.csproj", "{306AF247-A05C-430E-ABA3-054014CAC1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanap.Shop.API", "src\Fanap.Shop.API\Fanap.Shop.API.csproj", "{C854EFF7-5EDA-4C74-B911-D591D36C76F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanap.Shop.Domain.Tests", "test\Fanap.Shop.Domain.Tests\Fanap.Shop.Domain.Tests.csproj", "{660AEF79-2988-4F0B-BCA9-1BB941786577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC92B93-186B-44E0-ABFB-F9BAED280813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC92B93-186B-44E0-ABFB-F9BAED280813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC92B93-186B-44E0-ABFB-F9BAED280813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC92B93-186B-44E0-ABFB-F9BAED280813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEECA954-A1D2-4A09-AB54-0FD029B2E2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEECA954-A1D2-4A09-AB54-0FD029B2E2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEECA954-A1D2-4A09-AB54-0FD029B2E2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEECA954-A1D2-4A09-AB54-0FD029B2E2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306AF247-A05C-430E-ABA3-054014CAC1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306AF247-A05C-430E-ABA3-054014CAC1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306AF247-A05C-430E-ABA3-054014CAC1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306AF247-A05C-430E-ABA3-054014CAC1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C854EFF7-5EDA-4C74-B911-D591D36C76F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C854EFF7-5EDA-4C74-B911-D591D36C76F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C854EFF7-5EDA-4C74-B911-D591D36C76F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C854EFF7-5EDA-4C74-B911-D591D36C76F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660AEF79-2988-4F0B-BCA9-1BB941786577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660AEF79-2988-4F0B-BCA9-1BB941786577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660AEF79-2988-4F0B-BCA9-1BB941786577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660AEF79-2988-4F0B-BCA9-1BB941786577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBC92B93-186B-44E0-ABFB-F9BAED280813} = {74BC43AF-82BD-48F3-BC92-EB25A1118099}
+		{CEECA954-A1D2-4A09-AB54-0FD029B2E2F6} = {74BC43AF-82BD-48F3-BC92-EB25A1118099}
+		{306AF247-A05C-430E-ABA3-054014CAC1F0} = {74BC43AF-82BD-48F3-BC92-EB25A1118099}
+		{C854EFF7-5EDA-4C74-B911-D591D36C76F8} = {74BC43AF-82BD-48F3-BC92-EB25A1118099}
+		{660AEF79-2988-4F0B-BCA9-1BB941786577} = {D22C48CF-3851-4C13-A3D5-C8E3C668918D}
+	EndGlobalSection
+EndGlobal

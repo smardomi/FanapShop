@@ -1,0 +1,15 @@
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\bin\Debug\net9.0\Fanap.Shop.Appliction.deps.json
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\bin\Debug\net9.0\Fanap.Shop.Appliction.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\bin\Debug\net9.0\Fanap.Shop.Appliction.pdb
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\bin\Debug\net9.0\Fanap.Shop.Domain.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\bin\Debug\net9.0\Fanap.Shop.Domain.pdb
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.csproj.AssemblyReference.cache
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.AssemblyInfoInputs.cache
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.AssemblyInfo.cs
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.csproj.CoreCompileInputs.cache
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Sh.0E6D3767.Up2Date
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\refint\Fanap.Shop.Appliction.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\Fanap.Shop.Appliction.pdb
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Appliction\obj\Debug\net9.0\ref\Fanap.Shop.Appliction.dll

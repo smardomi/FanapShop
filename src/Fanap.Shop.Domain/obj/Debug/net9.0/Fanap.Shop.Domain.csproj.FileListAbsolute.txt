@@ -1,0 +1,11 @@
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\bin\Debug\net9.0\Fanap.Shop.Domain.deps.json
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\bin\Debug\net9.0\Fanap.Shop.Domain.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\bin\Debug\net9.0\Fanap.Shop.Domain.pdb
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\Fanap.Shop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\Fanap.Shop.Domain.AssemblyInfoInputs.cache
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\Fanap.Shop.Domain.AssemblyInfo.cs
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\Fanap.Shop.Domain.csproj.CoreCompileInputs.cache
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\Fanap.Shop.Domain.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\refint\Fanap.Shop.Domain.dll
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\Fanap.Shop.Domain.pdb
+D:\Saeed\Projects\Fanap.Shop\src\Fanap.Shop.Domain\obj\Debug\net9.0\ref\Fanap.Shop.Domain.dll

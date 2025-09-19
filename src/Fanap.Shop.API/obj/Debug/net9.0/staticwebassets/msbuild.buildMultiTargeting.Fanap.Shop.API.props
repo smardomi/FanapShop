@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fanap.Shop.API.props" />
+</Project>

@@ -1,0 +1,119 @@
+[
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "Account",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.CustomerController",
+    "Method": "AddFund",
+    "RelativePath": "Customer/AddFund",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fanap.Shop.Appliction.Commands.AddFundsCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.CustomerController",
+    "Method": "Get",
+    "RelativePath": "Customer/GetCustomerInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fanap.Shop.Appliction.Queries.GetUsersQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.OrderController",
+    "Method": "Get",
+    "RelativePath": "Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fanap.Shop.Appliction.Queries.GetOrdersQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.OrderController",
+    "Method": "CreateInvoice",
+    "RelativePath": "Order/CreateInvoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fanap.Shop.Appliction.Commands.CreateInvoiceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.OrderController",
+    "Method": "GetInvoices",
+    "RelativePath": "Order/GetInvoices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fanap.Shop.Appliction.Queries.GetInvoicesQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Fanap.Shop.API.Controllers.OrderController",
+    "Method": "PayInvoice",
+    "RelativePath": "Order/PayInvoice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Fanap.Shop.Appliction.Commands.PayInvoiceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
